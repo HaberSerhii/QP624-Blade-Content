@@ -1,0 +1,1264 @@
+<style type="text/css">
+
+
+  .product__description.base-padding {
+  padding: 0;
+  border-radius: 0px;
+  }
+  body {
+    padding: 0;
+  }
+  .QP624-Oneblade .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+  }
+  .QP624-Oneblade img {
+    margin: 0;
+    width: 100%;
+  }
+  .QP624-Oneblade p {
+    padding: 0;
+    margin: 0;
+  }
+  .QP624-Oneblade h1,
+  h2,
+  h3 {
+    padding: 0;
+    margin: 0;
+  }
+  .QP624-Oneblade ul {
+    padding: 0;
+    margin: 0;
+  }
+  .QP624-Oneblade ul li {
+    padding: 0;
+  }
+  .QP624-Oneblade {
+    overflow: hidden;
+  }
+  .QP624-Oneblade div {
+    padding: 0;
+    width: initial;
+  }
+  .QP624-Oneblade br {
+    display: block;
+  }
+  .product__body .el-tabs__header {
+    z-index: 6;
+  }
+  .QP624-Oneblade {
+    display: grid;
+    justify-content: center;
+  }
+  .QP624-Oneblade .hero-section {
+    background-color: #c0d000;
+    display: grid;
+    gap: 16px;
+    padding: 0 16px;
+  }
+  .QP624-Oneblade .hero-section-logo {
+    width: 80px;
+  }
+  .QP624-Oneblade .hero-section-title {
+    width: 75%;
+    font-weight: 700;
+    line-height: 130%;
+    font-size: 24px;
+    color: #002041;
+  }
+  .QP624-Oneblade .hero-section-uppertitle {
+    width: 55%;
+    line-height: 130%;
+    font-size: 10px;
+    color: #002041;
+  }
+  .QP624-Oneblade .hero-section-main-image {
+    width: 85%;
+  }
+  .QP624-Oneblade .for-what {
+    padding: 32px;
+    display: grid;
+    gap: 24px;
+  }
+  .QP624-Oneblade .for-what-container {
+    display: grid;
+    justify-items: center;
+    gap: 8px;
+  }
+  .QP624-Oneblade .for-what-container-image {
+    width: 100%;
+  }
+  .QP624-Oneblade .for-what-container-title {
+    font-weight: 600;
+    line-height: 130%;
+    font-size: 18px;
+    text-align: center;
+  }
+  .QP624-Oneblade .for-what-container-description {
+    line-height: 130%;
+    font-size: 12px;
+    text-align: center;
+  }
+  .QP624-Oneblade .includes {
+    display: grid;
+    gap: 16px;
+  }
+  .QP624-Oneblade .includes-title {
+    padding: 0 16px;
+    font-weight: 600;
+    line-height: 130%;
+    font-size: 18px;
+    text-align: center;
+  }
+  .QP624-Oneblade .about {
+    padding: 0 32px 32px 32px;
+    display: grid;
+    gap: 16px;
+  }
+  .QP624-Oneblade .about-technology {
+    display: grid;
+    gap: 16px;
+  }
+  .QP624-Oneblade .about-technology-description {
+    display: grid;
+    gap: 8px;
+  }
+  .QP624-Oneblade .technology-description-title {
+    font-weight: 600;
+    line-height: 130%;
+    font-size: 18px;
+  }
+  .QP624-Oneblade .technology-description-overview {
+    line-height: 130%;
+    font-size: 12px;
+  }
+  .QP624-Oneblade .about-double-edge-blade {
+    display: grid;
+    gap: 16px;
+  }
+  .QP624-Oneblade .about-double-edge-blade-description {
+    display: grid;
+    gap: 8px;
+  }
+  .QP624-Oneblade .double-edge-blade-description-title {
+    font-weight: 600;
+    line-height: 130%;
+    font-size: 18px;
+  }
+  .QP624-Oneblade .double-edge-blade-description-overview {
+    line-height: 130%;
+    font-size: 12px;
+  }
+  .QP624-Oneblade .double-edge-blade-description-uppertitle {
+    line-height: 130%;
+    font-size: 8px;
+  }
+  .QP624-Oneblade .about-waterproof {
+    display: grid;
+    gap: 16px;
+  }
+  .QP624-Oneblade .about-waterproof-description {
+    display: grid;
+    gap: 8px;
+  }
+  .QP624-Oneblade .waterproof-description-title {
+    font-weight: 600;
+    line-height: 130%;
+    font-size: 18px;
+  }
+  .QP624-Oneblade .waterproof-description-overview {
+    line-height: 130%;
+    font-size: 12px;
+  }
+  .QP624-Oneblade .about-body-care {
+    display: grid;
+    gap: 16px;
+  }
+  .QP624-Oneblade .about-body-care-description {
+    display: grid;
+    gap: 8px;
+  }
+  .QP624-Oneblade .body-care-description-title {
+    font-weight: 600;
+    line-height: 130%;
+    font-size: 18px;
+  }
+  .QP624-Oneblade .body-care-description-overview {
+    line-height: 130%;
+    font-size: 12px;
+  }
+  .QP624-Oneblade .longterm-use-create-for {
+    background-image: url(https://i.citrus.world/uploads/Haber/QP624_Oneblade/longterm-use-01.webp);
+    background-size: cover;
+    background-position: center;
+    padding: 16px 32px 190px 32px;
+  }
+  .QP624-Oneblade .create-for-title {
+    font-weight: 700;
+    line-height: 130%;
+    font-size: 24px;
+    text-align: center;
+  }
+  .QP624-Oneblade .longterm-use-optimal-results {
+    background-image: url(https://i.citrus.world/uploads/Haber/QP624_Oneblade/longterm-use-02.webp);
+    background-size: cover;
+    background-position: center;
+    padding: 16px;
+  }
+  .QP624-Oneblade .optimal-results-logo {
+    width: 75px;
+    margin-bottom: 78px;
+  }
+  .QP624-Oneblade .optimal-results-title {
+    font-weight: 600;
+    line-height: 130%;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    margin-bottom: 16px;
+  }
+  .QP624-Oneblade .results-title-logo {
+    display: inline-block;
+    vertical-align: middle;
+    width: 15px;
+    height: 15px;
+    background-image: url(https://i.citrus.world/uploads/Haber/QP624_Oneblade/longterm-use-icon.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+  .QP624-Oneblade .optimal-results-description {
+    line-height: 130%;
+    font-size: 8px;
+    text-align: center;
+    color: white;
+  }
+  .QP624-Oneblade .complectation {
+    position: relative;
+    margin: 48px;
+    background-image: url(https://i.citrus.world/uploads/Haber/QP624_Oneblade/complectation-bg.webp);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 430px;
+    display: grid;
+    align-content: flex-end;
+  }
+  .QP624-Oneblade .complectation-first-item {
+    display: grid;
+    gap: 0px;
+    grid-template-columns: 1fr 15fr;
+    align-items: start;
+    position: absolute;
+    top: 0%;
+    left: 5%;
+  }
+  .QP624-Oneblade .comlectation-number {
+    font-weight: 700;
+    line-height: 130%;
+    font-size: 14px;
+    color: #002041;
+  }
+  .QP624-Oneblade .complectation-image {
+    width: 35%;
+  }
+  .QP624-Oneblade .complectation-second-item {
+    display: grid;
+    gap: 0px;
+    grid-template-columns: 1fr 15fr;
+    align-items: start;
+    position: absolute;
+    top: 20%;
+    left: -10%;
+  }
+  .QP624-Oneblade .complectation-third-item {
+    display: grid;
+    gap: 0px;
+    grid-template-columns: 1fr 15fr;
+    align-items: start;
+    position: absolute;
+    top: 45%;
+    left: -10%;
+  }
+  .QP624-Oneblade .complectation-fourth-item {
+    display: grid;
+    gap: 0px;
+    grid-template-columns: 1fr 15fr;
+    align-items: start;
+    position: absolute;
+    top: 60%;
+    left: 0%;
+  }
+  .QP624-Oneblade .complectation-package-image {
+    width: 75%;
+    position: absolute;
+    top: 10%;
+    left: 35%;
+  }
+  .QP624-Oneblade .complectation-list-item {
+    list-style: none;
+    font-weight: 700;
+    line-height: 130%;
+    font-size: 12px;
+    text-align: center;
+  }
+  @media screen and (min-width: 666px) {
+    .QP624-Oneblade {
+      display: grid;
+      justify-content: center;
+    }
+    .QP624-Oneblade .hero-section {
+      background-color: #c0d000;
+      grid-template-columns: repeat(4, 1fr);
+      grid-template-rows: repeat(3, 1fr);
+      grid-column-gap: 0px;
+      grid-row-gap: 16px;
+      padding: 0 0 0 24px;
+    }
+    .QP624-Oneblade .hero-section-logo {
+      width: 120px;
+      grid-area: 1 / 1 / 2 / 2;
+    }
+    .QP624-Oneblade .hero-section-title {
+      grid-area: 2 / 1 / 3 / 3;
+      width: 60%;
+      font-weight: 700;
+      line-height: 130%;
+      font-size: 24px;
+      color: #002041;
+    }
+    .QP624-Oneblade .hero-section-uppertitle {
+      grid-area: 3 / 1 / 4 / 2;
+      width: 110%;
+      line-height: 130%;
+      font-size: 10px;
+      color: #002041;
+      padding: 55px 0 0 0;
+    }
+    .QP624-Oneblade .hero-section-main-image {
+      grid-area: 1 / 2 / 4 / 6;
+      padding-top: 12px;
+      width: 100%;
+    }
+    .QP624-Oneblade .for-what {
+      padding: 32px;
+      display: grid;
+      grid-template-columns: repeat(2, 312px);
+      grid-template-rows: 1fr 315px;
+      grid-column-gap: 32px;
+      grid-row-gap: 32px;
+    }
+    .QP624-Oneblade .for-what-container:first-child {
+      grid-area: 1 / 1 / 2 / 2;
+    }
+    .QP624-Oneblade .for-what-container:nth-child(2) {
+      grid-area: 1 / 2 / 2 / 3;
+    }
+    .QP624-Oneblade .for-what-container:nth-child(3) {
+      grid-area: 2 / 1 / 3 / 3;
+      grid-template-columns: repeat(2, 312px);
+      grid-template-rows: repeat(2, 156px);
+      grid-column-gap: 32px;
+      grid-row-gap: 0px;
+    }
+    .QP624-Oneblade
+    .for-what-container:nth-child(3)
+    .for-what-container-description {
+      grid-area: 2 / 2 / 3 / 3;
+      padding-bottom: 75px;
+      text-align: left;
+    }
+    .QP624-Oneblade .for-what-container:nth-child(3) .for-what-container-title {
+      padding-top: 90px;
+      text-align: left;
+    }
+    .QP624-Oneblade .for-what-container {
+      display: grid;
+      justify-items: center;
+      gap: 8px;
+    }
+    .QP624-Oneblade .for-what-container-image {
+      width: 100%;
+    }
+    .QP624-Oneblade .for-what-container-title {
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 18px;
+      text-align: center;
+    }
+    .QP624-Oneblade .for-what-container-description {
+      line-height: 130%;
+      font-size: 12px;
+      text-align: center;
+    }
+    .QP624-Oneblade .includes {
+      display: grid;
+      gap: 16px;
+    }
+    .QP624-Oneblade .includes-title {
+      padding: 0 16px;
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 18px;
+      text-align: center;
+    }
+    .QP624-Oneblade .about {
+      padding: 0 32px 32px 32px;
+      display: grid;
+      gap: 48px;
+    }
+    .QP624-Oneblade .about-technology {
+      display: flex;
+      gap: 48px;
+    }
+    .QP624-Oneblade .about-technology-image {
+      width: 45%;
+    }
+    .QP624-Oneblade .about-technology-description {
+      display: grid;
+      gap: 16px;
+      align-content: center;
+      width: 55%;
+    }
+    .QP624-Oneblade .technology-description-title {
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 18px;
+    }
+    .QP624-Oneblade .technology-description-overview {
+      line-height: 130%;
+      font-size: 12px;
+    }
+    .QP624-Oneblade .about-double-edge-blade {
+      display: flex;
+      flex-direction: row-reverse;
+      gap: 48px;
+    }
+    .QP624-Oneblade .about-double-edge-blade-image {
+      width: 45%;
+    }
+    .QP624-Oneblade .about-double-edge-blade-description {
+      display: grid;
+      gap: 16px;
+      align-content: center;
+      width: 50%;
+    }
+    .QP624-Oneblade .double-edge-blade-description-title {
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 18px;
+    }
+    .QP624-Oneblade .double-edge-blade-description-overview {
+      line-height: 130%;
+      font-size: 12px;
+    }
+    .QP624-Oneblade .double-edge-blade-description-uppertitle {
+      line-height: 130%;
+      font-size: 8px;
+    }
+    .QP624-Oneblade .about-waterproof {
+      display: flex;
+      gap: 48px;
+    }
+    .QP624-Oneblade .about-waterproof-image {
+      width: 45%;
+    }
+    .QP624-Oneblade .about-waterproof-description {
+      display: grid;
+      gap: 16px;
+      align-content: center;
+      width: 55%;
+    }
+    .QP624-Oneblade .waterproof-description-title {
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 18px;
+    }
+    .QP624-Oneblade .waterproof-description-overview {
+      line-height: 130%;
+      font-size: 12px;
+    }
+    .QP624-Oneblade .about-body-care {
+      display: flex;
+      flex-direction: row-reverse;
+      gap: 48px;
+    }
+    .QP624-Oneblade .about-body-care-image {
+      width: 45%;
+    }
+    .QP624-Oneblade .about-body-care-description {
+      display: grid;
+      gap: 16px;
+      align-content: center;
+      width: 50%;
+    }
+    .QP624-Oneblade .body-care-description-title {
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 18px;
+    }
+    .QP624-Oneblade .body-care-description-overview {
+      line-height: 130%;
+      font-size: 12px;
+    }
+    .QP624-Oneblade .longterm-use {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      width: 100%;
+      height: 275px;
+    }
+    .QP624-Oneblade .longterm-use-create-for {
+      background-image: url(https://i.citrus.world/uploads/Haber/QP624_Oneblade/longterm-use-01.webp);
+      background-size: cover;
+      padding: 0;
+    }
+    .QP624-Oneblade .create-for-title {
+      font-weight: 700;
+      line-height: 130%;
+      font-size: 24px;
+      text-align: center;
+      margin: 32px;
+    }
+    .QP624-Oneblade .longterm-use-optimal-results {
+      background-image: url(https://i.citrus.world/uploads/Haber/QP624_Oneblade/longterm-use-02.webp);
+      background-size: cover;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+    .QP624-Oneblade .optimal-results-logo {
+      width: 85px;
+      margin: 16px 0px 50px 16px;
+    }
+    .QP624-Oneblade .optimal-results-title {
+      margin: 0 16px;
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 14px;
+      color: white;
+      text-align: center;
+      width: 91%;
+    }
+    .QP624-Oneblade .results-title-logo {
+      display: inline-block;
+      vertical-align: middle;
+      width: 15px;
+      height: 15px;
+      background-image: url(https://i.citrus.world/uploads/Haber/QP624_Oneblade/longterm-use-icon.svg);
+      background-repeat: no-repeat;
+      background-size: contain;
+    }
+    .QP624-Oneblade .optimal-results-description {
+      width: 91%;
+      margin: 0 16px;
+      line-height: 130%;
+      font-size: 8px;
+      text-align: center;
+      color: white;
+    }
+    .QP624-Oneblade .complectation {
+      position: relative;
+      margin: 64px 96px;
+      background-image: url(https://i.citrus.world/uploads/Haber/QP624_Oneblade/complectation-bg.webp);
+      background-repeat: no-repeat;
+      background-size: contain;
+      height: 630px;
+    }
+    .QP624-Oneblade .complectation-first-item {
+      display: grid;
+      gap: 0px;
+      grid-template-columns: 1fr 15fr;
+      align-items: start;
+      position: absolute;
+      top: 0%;
+      left: 12%;
+    }
+    .QP624-Oneblade .comlectation-number {
+      font-weight: 700;
+      line-height: 130%;
+      font-size: 18px;
+    }
+    .QP624-Oneblade .complectation-image {
+      width: 130px;
+    }
+    .QP624-Oneblade .complectation-second-item {
+      display: grid;
+      gap: 4px;
+      grid-template-columns: 1fr 15fr;
+      align-items: start;
+      position: absolute;
+      top: 21%;
+      left: -8%;
+    }
+    .QP624-Oneblade .complectation-third-item {
+      display: grid;
+      gap: 4px;
+      grid-template-columns: 1fr 15fr;
+      align-items: start;
+      position: absolute;
+      top: 47%;
+      left: -10%;
+    }
+    .QP624-Oneblade .complectation-fourth-item {
+      display: grid;
+      gap: 4px;
+      grid-template-columns: 1fr 15fr;
+      align-items: start;
+      position: absolute;
+      top: 68%;
+      left: 1%;
+    }
+    .QP624-Oneblade .complectation-package-image {
+      width: 435px;
+      position: absolute;
+      top: 10%;
+      left: 25%;
+    }
+    .QP624-Oneblade .complectation-list-item {
+      list-style: none;
+      font-weight: 700;
+      line-height: 130%;
+      font-size: 12px;
+      text-align: center;
+    }
+  }
+  @media screen and (min-width: 1024px) {
+    .QP624-Oneblade {
+      display: grid;
+      justify-content: center;
+    }
+    .QP624-Oneblade .hero-section {
+      background-color: #c0d000;
+      grid-template-columns: repeat(4, 1fr);
+      grid-template-rows: repeat(3, 1fr);
+      grid-column-gap: 0px;
+      grid-row-gap: 16px;
+      padding: 0 0 0 24px;
+    }
+    .QP624-Oneblade .hero-section-logo {
+      width: 180px;
+      grid-area: 1 / 1 / 2 / 2;
+    }
+    .QP624-Oneblade .hero-section-title {
+      grid-area: 2 / 1 / 3 / 3;
+      width: 85%;
+      font-weight: 700;
+      line-height: 130%;
+      font-size: 32px;
+      color: #002041;
+    }
+    .QP624-Oneblade .hero-section-uppertitle {
+      grid-area: 3 / 1 / 4 / 2;
+      width: 110%;
+      line-height: 130%;
+      font-size: 14px;
+      color: #002041;
+      padding: 55px 0 0 0;
+    }
+    .QP624-Oneblade .hero-section-main-image {
+      grid-area: 1 / 2 / 4 / 6;
+      padding-top: 12px;
+      width: 100%;
+    }
+    .QP624-Oneblade .for-what {
+      padding: 48px;
+      display: grid;
+      grid-template-columns: repeat(2, 423px);
+      grid-template-rows: 1fr 423px;
+      grid-column-gap: 32px;
+      grid-row-gap: 32px;
+    }
+    .QP624-Oneblade .for-what-container:first-child {
+      grid-area: 1 / 1 / 2 / 2;
+    }
+    .QP624-Oneblade .for-what-container:nth-child(2) {
+      grid-area: 1 / 2 / 2 / 3;
+    }
+    .QP624-Oneblade .for-what-container:nth-child(3) {
+      grid-area: 2 / 1 / 3 / 3;
+      grid-template-columns: repeat(2, 423px);
+      grid-template-rows: repeat(2, 212px);
+      grid-column-gap: 32px;
+      grid-row-gap: 0px;
+    }
+    .QP624-Oneblade
+    .for-what-container:nth-child(3)
+    .for-what-container-description {
+      grid-area: 2 / 2 / 3 / 3;
+      padding-bottom: 75px;
+      text-align: left;
+    }
+    .QP624-Oneblade .for-what-container:nth-child(3) .for-what-container-title {
+      padding-top: 130px;
+      text-align: left;
+    }
+    .QP624-Oneblade .for-what-container {
+      display: grid;
+      justify-items: center;
+      gap: 16px;
+    }
+    .QP624-Oneblade .for-what-container-image {
+      width: 100%;
+    }
+    .QP624-Oneblade .for-what-container-title {
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 24px;
+      text-align: center;
+    }
+    .QP624-Oneblade .for-what-container-description {
+      line-height: 130%;
+      font-size: 18px;
+      text-align: center;
+    }
+    .QP624-Oneblade .includes {
+      display: grid;
+      gap: 32px;
+    }
+    .QP624-Oneblade .includes-title {
+      padding: 0 32px;
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 24px;
+      text-align: center;
+    }
+    .QP624-Oneblade .about {
+      padding: 0 64px 64px 64px;
+      display: grid;
+      gap: 64px;
+    }
+    .QP624-Oneblade .about-technology {
+      display: flex;
+      gap: 64px;
+    }
+    .QP624-Oneblade .about-technology-image {
+      width: 45%;
+    }
+    .QP624-Oneblade .about-technology-description {
+      display: grid;
+      gap: 32px;
+      align-content: center;
+      width: 55%;
+    }
+    .QP624-Oneblade .technology-description-title {
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 24px;
+    }
+    .QP624-Oneblade .technology-description-overview {
+      line-height: 130%;
+      font-size: 18px;
+    }
+    .QP624-Oneblade .about-double-edge-blade {
+      display: flex;
+      flex-direction: row-reverse;
+      gap: 64px;
+    }
+    .QP624-Oneblade .about-double-edge-blade-image {
+      width: 45%;
+    }
+    .QP624-Oneblade .about-double-edge-blade-description {
+      display: grid;
+      gap: 32px;
+      align-content: center;
+      width: 50%;
+    }
+    .QP624-Oneblade .double-edge-blade-description-title {
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 24px;
+    }
+    .QP624-Oneblade .double-edge-blade-description-overview {
+      line-height: 130%;
+      font-size: 18px;
+    }
+    .QP624-Oneblade .double-edge-blade-description-uppertitle {
+      line-height: 130%;
+      font-size: 12px;
+    }
+    .QP624-Oneblade .about-waterproof {
+      display: flex;
+      gap: 64px;
+    }
+    .QP624-Oneblade .about-waterproof-image {
+      width: 45%;
+    }
+    .QP624-Oneblade .about-waterproof-description {
+      display: grid;
+      gap: 32px;
+      align-content: center;
+      width: 55%;
+    }
+    .QP624-Oneblade .waterproof-description-title {
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 24px;
+    }
+    .QP624-Oneblade .waterproof-description-overview {
+      line-height: 130%;
+      font-size: 18px;
+    }
+    .QP624-Oneblade .about-body-care {
+      display: flex;
+      flex-direction: row-reverse;
+      gap: 64px;
+    }
+    .QP624-Oneblade .about-body-care-image {
+      width: 45%;
+    }
+    .QP624-Oneblade .about-body-care-description {
+      display: grid;
+      gap: 32px;
+      align-content: center;
+      width: 50%;
+    }
+    .QP624-Oneblade .body-care-description-title {
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 24px;
+    }
+    .QP624-Oneblade .body-care-description-overview {
+      line-height: 130%;
+      font-size: 18px;
+    }
+    .QP624-Oneblade .longterm-use {
+      display: grid;
+      width: 100%;
+      height: 325px;
+      grid-template-columns: 1fr 1fr;
+    }
+    .QP624-Oneblade .longterm-use-create-for {
+      background-image: url(https://i.citrus.world/uploads/Haber/QP624_Oneblade/longterm-use-01.webp);
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+    .QP624-Oneblade .create-for-title {
+      font-weight: 700;
+      line-height: 130%;
+      font-size: 32px;
+      text-align: center;
+    }
+    .QP624-Oneblade .longterm-use-optimal-results {
+      background-image: url(https://i.citrus.world/uploads/Haber/QP624_Oneblade/longterm-use-02.webp);
+      background-size: contain;
+      background-repeat: no-repeat;
+      display: grid;
+      gap: 16px;
+    }
+    .QP624-Oneblade .optimal-results-logo {
+      width: 100px;
+    }
+    .QP624-Oneblade .optimal-results-title {
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 18px;
+      color: white;
+      text-align: center;
+    }
+    .QP624-Oneblade .results-title-logo {
+      display: inline-block;
+      vertical-align: middle;
+      width: 18px;
+      height: 18px;
+      background-image: url(https://i.citrus.world/uploads/Haber/QP624_Oneblade/longterm-use-icon.svg);
+      background-repeat: no-repeat;
+      background-size: contain;
+    }
+    .QP624-Oneblade .optimal-results-description {
+      line-height: 130%;
+      font-size: 12px;
+      text-align: center;
+      color: white;
+    }
+    .QP624-Oneblade .complectation {
+      position: relative;
+      margin: 75px 140px;
+      background-image: url(https://i.citrus.world/uploads/Haber/QP624_Oneblade/complectation-bg.webp);
+      background-repeat: no-repeat;
+      background-size: contain;
+      height: 780px;
+    }
+    .QP624-Oneblade .complectation-first-item {
+      display: grid;
+      gap: 0px;
+      grid-template-columns: 1fr 15fr;
+      align-items: start;
+      position: absolute;
+      top: -1%;
+      left: 10%;
+    }
+    .QP624-Oneblade .comlectation-number {
+      font-weight: 700;
+      line-height: 130%;
+      font-size: 24px;
+    }
+    .QP624-Oneblade .complectation-image {
+      width: 200px;
+    }
+    .QP624-Oneblade .complectation-second-item {
+      display: grid;
+      gap: 4px;
+      grid-template-columns: 1fr 15fr;
+      align-items: start;
+      position: absolute;
+      top: 22%;
+      left: -11%;
+    }
+    .QP624-Oneblade .complectation-third-item {
+      display: grid;
+      gap: 4px;
+      grid-template-columns: 1fr 15fr;
+      align-items: start;
+      position: absolute;
+      top: 48%;
+      left: -11%;
+    }
+    .QP624-Oneblade .complectation-fourth-item {
+      display: grid;
+      gap: 4px;
+      grid-template-columns: 1fr 15fr;
+      align-items: start;
+      position: absolute;
+      top: 72%;
+      left: -2%;
+    }
+    .QP624-Oneblade .complectation-package-image {
+      width: 570px;
+      position: absolute;
+      top: 10%;
+      left: 25%;
+    }
+    .QP624-Oneblade .complectation-list {
+      position: absolute;
+      top: 90%;
+      left: 18%;
+    }
+    .QP624-Oneblade .complectation-list-item {
+      list-style: none;
+      font-weight: 700;
+      line-height: 130%;
+      font-size: 18px;
+      text-align: center;
+    }
+  }
+  @media screen and (min-width: 1366px) {
+    .QP624-Oneblade {
+      display: grid;
+      justify-content: center;
+    }
+    .QP624-Oneblade .hero-section {
+      background-color: #c0d000;
+      grid-template-columns: repeat(4, 1fr);
+      grid-template-rows: repeat(3, 1fr);
+      grid-column-gap: 0px;
+      grid-row-gap: 32px;
+      padding: 0 0 0 60px;
+      height: 760px;
+    }
+    .QP624-Oneblade .hero-section-logo {
+      width: 240px;
+      grid-area: 1 / 1 / 2 / 2;
+    }
+    .QP624-Oneblade .hero-section-title {
+      grid-area: 2 / 1 / 3 / 3;
+      width: 85%;
+      font-weight: 700;
+      line-height: 130%;
+      font-size: 64px;
+      color: #002041;
+      margin-bottom: 70px;
+    }
+    .QP624-Oneblade .hero-section-uppertitle {
+      grid-area: 3 / 1 / 4 / 2;
+      width: 135%;
+      line-height: 130%;
+      font-size: 24px;
+      color: #002041;
+      padding: 0;
+    }
+    .QP624-Oneblade .hero-section-main-image {
+      grid-area: 1 / 2 / 4 / 6;
+      padding-top: 12px;
+      width: 100%;
+    }
+    .QP624-Oneblade .for-what {
+      padding: 60px;
+      display: grid;
+      grid-template-columns: repeat(2, 600px);
+      grid-template-rows: 1fr 600px;
+      grid-column-gap: 60px;
+      grid-row-gap: 60px;
+    }
+    .QP624-Oneblade .for-what-container:first-child {
+      grid-area: 1 / 1 / 2 / 2;
+    }
+    .QP624-Oneblade .for-what-container:nth-child(2) {
+      grid-area: 1 / 2 / 2 / 3;
+    }
+    .QP624-Oneblade .for-what-container:nth-child(3) {
+      grid-area: 2 / 1 / 3 / 3;
+      grid-template-columns: repeat(2, 600px);
+      grid-template-rows: repeat(2, 300px);
+      grid-column-gap: 60px;
+      grid-row-gap: 0px;
+    }
+    .QP624-Oneblade
+    .for-what-container:nth-child(3)
+    .for-what-container-description {
+      grid-area: 2 / 2 / 3 / 3;
+      padding-bottom: 75px;
+      text-align: left;
+    }
+    .QP624-Oneblade .for-what-container:nth-child(3) .for-what-container-title {
+      padding-top: 170px;
+      text-align: left;
+    }
+    .QP624-Oneblade .for-what-container {
+      display: grid;
+      justify-items: center;
+      gap: 16px;
+    }
+    .QP624-Oneblade .for-what-container-image {
+      width: 100%;
+    }
+    .QP624-Oneblade .for-what-container-title {
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 36px;
+      text-align: center;
+    }
+    .QP624-Oneblade .for-what-container-description {
+      line-height: 130%;
+      font-size: 24px;
+      text-align: center;
+    }
+    .QP624-Oneblade .includes {
+      display: grid;
+      gap: 64px;
+    }
+    .QP624-Oneblade .includes-title {
+      padding: 0 64px;
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 36px;
+      text-align: center;
+    }
+    .QP624-Oneblade .about {
+      display: grid;
+    }
+    .QP624-Oneblade .about-technology {
+      display: flex;
+    }
+    .QP624-Oneblade .about-technology-image {
+      width: 45%;
+    }
+    .QP624-Oneblade .about-technology-description {
+      display: grid;
+      align-content: center;
+      width: 55%;
+    }
+    .QP624-Oneblade .technology-description-title {
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 36px;
+    }
+    .QP624-Oneblade .technology-description-overview {
+      line-height: 130%;
+      font-size: 24px;
+    }
+    .QP624-Oneblade .about-double-edge-blade {
+      display: flex;
+      flex-direction: row-reverse;
+    }
+    .QP624-Oneblade .about-double-edge-blade-image {
+      width: 45%;
+    }
+    .QP624-Oneblade .about-double-edge-blade-description {
+      display: grid;
+      align-content: center;
+      width: 50%;
+    }
+    .QP624-Oneblade .double-edge-blade-description-title {
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 36px;
+    }
+    .QP624-Oneblade .double-edge-blade-description-overview {
+      line-height: 130%;
+      font-size: 24px;
+    }
+    .QP624-Oneblade .double-edge-blade-description-uppertitle {
+      line-height: 130%;
+      font-size: 14px;
+    }
+    .QP624-Oneblade .about-waterproof {
+      display: flex;
+    }
+    .QP624-Oneblade .about-waterproof-image {
+      width: 45%;
+    }
+    .QP624-Oneblade .about-waterproof-description {
+      display: grid;
+      align-content: center;
+      width: 55%;
+    }
+    .QP624-Oneblade .waterproof-description-title {
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 36px;
+    }
+    .QP624-Oneblade .waterproof-description-overview {
+      line-height: 130%;
+      font-size: 24px;
+    }
+    .QP624-Oneblade .about-body-care {
+      display: flex;
+      flex-direction: row-reverse;
+    }
+    .QP624-Oneblade .about-body-care-image {
+      width: 45%;
+    }
+    .QP624-Oneblade .about-body-care-description {
+      display: grid;
+      align-content: center;
+      width: 50%;
+    }
+    .QP624-Oneblade .body-care-description-title {
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 36px;
+    }
+    .QP624-Oneblade .body-care-description-overview {
+      line-height: 130%;
+      font-size: 24px;
+    }
+    .QP624-Oneblade .longterm-use {
+      display: grid;
+      width: 100%;
+      height: 460px;
+      grid-template-columns: 1fr 1fr;
+    }
+    .QP624-Oneblade .longterm-use-create-for {
+      background-image: url(https://i.citrus.world/uploads/Haber/QP624_Oneblade/longterm-use-01.webp);
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+    .QP624-Oneblade .create-for-title {
+      font-weight: 700;
+      line-height: 130%;
+      font-size: 51px;
+      text-align: center;
+      margin-top: 32px;
+    }
+    .QP624-Oneblade .longterm-use-optimal-results {
+      background-image: url(https://i.citrus.world/uploads/Haber/QP624_Oneblade/longterm-use-02.webp);
+      background-size: contain;
+      background-repeat: no-repeat;
+      display: grid;
+      gap: 32px;
+    }
+    .QP624-Oneblade .optimal-results-logo {
+      width: 130px;
+      margin: 44px 0px 0px 60px;
+    }
+    .QP624-Oneblade .optimal-results-title {
+      font-weight: 600;
+      line-height: 130%;
+      font-size: 28px;
+      color: white;
+      text-align: center;
+    }
+    .QP624-Oneblade .results-title-logo {
+      display: inline-block;
+      vertical-align: middle;
+      width: 25px;
+      height: 25px;
+      background-image: url(https://i.citrus.world/uploads/Haber/QP624_Oneblade/longterm-use-icon.svg);
+      background-repeat: no-repeat;
+      background-size: contain;
+    }
+    .QP624-Oneblade .optimal-results-description {
+      line-height: 130%;
+      font-size: 16px;
+      text-align: center;
+      color: white;
+    }
+    .QP624-Oneblade .complectation {
+      position: relative;
+      margin: 80px 210px;
+      background-image: url(https://i.citrus.world/uploads/Haber/QP624_Oneblade/complectation-bg.webp);
+      background-repeat: no-repeat;
+      background-size: contain;
+      height: 1100px;
+    }
+    .QP624-Oneblade .complectation-first-item {
+      display: grid;
+      gap: 16px;
+      grid-template-columns: 1fr 15fr;
+      align-items: start;
+      position: absolute;
+      top: -1%;
+      left: 6%;
+    }
+    .QP624-Oneblade .comlectation-number {
+      font-weight: 700;
+      line-height: 130%;
+      font-size: 44px;
+    }
+    .QP624-Oneblade .complectation-image {
+      width: 275px;
+    }
+    .QP624-Oneblade .complectation-second-item {
+      display: grid;
+      gap: 16px;
+      grid-template-columns: 1fr 15fr;
+      align-items: start;
+      position: absolute;
+      top: 21%;
+      left: -14%;
+    }
+    .QP624-Oneblade .complectation-third-item {
+      display: grid;
+      gap: 16px;
+      grid-template-columns: 1fr 15fr;
+      align-items: start;
+      position: absolute;
+      top: 47%;
+      left: -14%;
+    }
+    .QP624-Oneblade .complectation-fourth-item {
+      display: grid;
+      gap: 16px;
+      grid-template-columns: 1fr 15fr;
+      align-items: start;
+      position: absolute;
+      top: 71%;
+      left: -3%;
+    }
+    .QP624-Oneblade .complectation-package-image {
+      width: 800px;
+      position: absolute;
+      top: 10%;
+      left: 25%;
+    }
+    .QP624-Oneblade .complectation-list {
+      position: absolute;
+      top: 90%;
+      left: 18%;
+    }
+    .QP624-Oneblade .complectation-list-item {
+      list-style: none;
+      font-weight: 700;
+      line-height: 130%;
+      font-size: 24px;
+      text-align: center;
+    }
+  }
+</style>
